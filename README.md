@@ -6,4 +6,4 @@
 
  Documentos devem ser abertos no VisuAlg.
 
- Curso feito no site curso em video, os arquivos foram criados e editados por mim, portanto não contem copias de codigo do curso original. Este repositorio é para guardar os codigos para posteriorente utiliza-los ou edita-los.
+ Curso feito no site curso em video, os arquivos foram criados e editados por mim, portanto não contem copias de codigo do curso original. Este repositorio é para guardar os codigos para posteriormente utiliza-los ou edita-los.
