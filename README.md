@@ -1,4 +1,4 @@
-# Curso de Algoritimos todos exercicios
+# Curso de Algoritimos todos projetos
 
  Curso de algoritimos com todos os arquivos utilizados para fazer. 
 
